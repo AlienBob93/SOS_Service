@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <tabs>
+        <tab
+            id="@+id/tab_info"
+            icon="@drawable/ic_info_outline_black_24dp"
+            title="Info"
+            barColorWhenSelected="#2196f3" />
+        <tab
+            id="@+id/tab_contacts"
+            icon="@drawable/ic_supervisor_account_black_24dp"
+            title="Contacts"
+            barColorWhenSelected="#7e57c2" />
+    </tabs>
